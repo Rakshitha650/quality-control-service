@@ -7,6 +7,7 @@ import traceback
 from .models import Clinic, Department, Equipments
 from .serializers import ClinicSerializer, ClinicReadSerializer, EquipmentSerializer
 import logging
+# minor update
 
 logger = logging.getLogger(__name__)
 
